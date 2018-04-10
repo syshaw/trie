@@ -1,0 +1,2 @@
+# trie
+tiny trie demo
